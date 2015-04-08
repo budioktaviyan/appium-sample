@@ -1,0 +1,6 @@
+<resources>
+    <color name="start_color_1">#FFFF4444</color>
+    <color name="end_color_1">#33999999</color>
+    <color name="start_color_2">#FF99DAFF</color>
+    <color name="end_color_2">#FF008080</color>
+</resources>
